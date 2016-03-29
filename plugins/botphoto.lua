@@ -1,7 +1,3 @@
-Enter file contents here
-
-
-
 local function set_bot_photo(msg, success, result)
 
   local receiver = get_receiver(msg)
