@@ -1,4 +1,3 @@
-Enter file contents hereTeleѦgent© Project, [۲۲.۰۳.۱۶ ۰۹:۰۴]
 #!/usr/bin/env bash 
 
 THIS_DIR=$(cd $(dirname $0); pwd)
